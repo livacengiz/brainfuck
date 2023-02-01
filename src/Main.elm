@@ -533,7 +533,7 @@ editorIntroduction =
         ]
     , p [ class "lh-copy" ]
         [ text "So play around with this tool. Start by running the sample code or creating basic programs on your own and see for yourself how with even the most basic control flow and altering commands you can technically accomplish any task. If you’re curious about the code and the interpreter that are running on this page, "
-        , link "go here" "https://github.com/minond/brainfuck"
+        , link "go here" "https://github.com/livacengiz/brainfuck"
         , text ", and if you’d like to learn more about Brainfuck and other really interesting esoteric programming languages then I recommend heading over to "
         , link "Esolang" "https://esolangs.org/wiki/Main_Page"
         , text "."

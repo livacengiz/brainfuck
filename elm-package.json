@@ -1,7 +1,7 @@
 {
     "version": "1.0.0",
     "summary": "A Brainfuck debugger and memory visualizer in your browser.",
-    "repository": "https://github.com/minond/brainfuck.git",
+    "repository": "https://github.com/livacengiz/brainfuck",
     "license": "BSD3",
     "source-directories": [
         ".",
